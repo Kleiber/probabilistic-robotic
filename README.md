@@ -1,4 +1,4 @@
-Probabilistic Robotic<br />
+Probabilistic Robotic:<br />
 <br />
 * KalmanFilter1D.cpp<br />
 * KalmanFilter2D.cpp<br />
@@ -7,9 +7,8 @@ Probabilistic Robotic<br />
 * MarkovLocalization2D.cpp<br />
 * ParticleFilterBicycleModel.cpp<br />
 * ParticleFilterSimpleModel.cpp<br />
-<br />
+
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
-<br />
 
 ### Courses ###
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
