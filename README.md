@@ -90,6 +90,9 @@ An Internet-accessible simulation system that allows the simulation of robots co
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications 
 
+[**AirSim**](https://github.com/Microsoft/AirSim)
+AirSim is a simulator for drones (and soon other vehicles) built on Unreal Engine
+
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
